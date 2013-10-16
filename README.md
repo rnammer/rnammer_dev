@@ -1,4 +1,4 @@
 rnammer_dev
 ===========
 
-Dev repo for rnammer
+This is the development repository for what is to become RNAmmer version 3. 
